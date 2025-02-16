@@ -1,2 +1,2 @@
 # NanoDyongChyangSong
-24 Pixel Chinese font
+Pixel CJK font
