@@ -1,2 +1,6 @@
 # NanoDyongChyangSong (纳米点墙宋)
-Pixel CJK font
+
+## 授权
+- 免费使用、复制、修改、分发字体
+- 不可以为字体收费
+- 需要附上同样的授权信息
