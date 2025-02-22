@@ -1,6 +1,7 @@
 # NanoDyongChyangSong (纳米点墙宋)
 
 ## 简介
+纳米点墙宋是一个像素字体家族
 + 西文取自hurss字体
 + 中文取自isas的字体包中的bdf文件
 
